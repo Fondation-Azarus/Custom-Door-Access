@@ -30,4 +30,4 @@ teamsWhichCanBypass:
 
 Put "`-1`" to include when the player isn't holding anything.
 "`replaceDefaultItemsPermissions`" and "`rolesWhichCanBypass`"/"`teamsWhichCanBypass`" are independant.
-By the way you can add multiple doors
+By the way you can add multiple doors.
