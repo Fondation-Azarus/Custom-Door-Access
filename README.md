@@ -30,7 +30,8 @@ teamsWhichCanBypass:
 
 Put "`-1`" to include every items.
 "`replaceDefaultItemsPermissions`" and "`rolesWhichCanBypass`"/"`teamsWhichCanBypass`" are independant.
-You can find all the items' IDs/DoorTypes [here](https://docs.synapsesl.xyz/resources).
+You can find all the items' IDs/DoorTypes/RoleTypes/Teams [here](https://docs.synapsesl.xyz/resources).
+You can also put multiple RoleTypes/Teams.
 By the way you can add multiple doors.
 
 ## Installation
