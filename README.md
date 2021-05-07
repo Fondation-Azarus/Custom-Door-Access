@@ -5,7 +5,7 @@ A plug-in which allows to setup doors/generators permissions.
 Here's the default configs :
 ```# Doors' permission :
 customDoorPermissionsList:
-- doorName: 096
+- doorType: HCZ_096
   replaceDefaultItemsPermissions: true
   allowedItems:
   - 0
@@ -28,6 +28,12 @@ teamsWhichCanBypass:
 - MTF
 ```
 
-Put "`-1`" to include when the player isn't holding anything.
+Put "`-1`" to include every items.
 "`replaceDefaultItemsPermissions`" and "`rolesWhichCanBypass`"/"`teamsWhichCanBypass`" are independant.
+You can find all the items' IDs/DoorTypes [here](https://docs.synapsesl.xyz/resources).
 By the way you can add multiple doors.
+
+## Installation
+1. [Install Synapse](https://docs.synapsesl.xyz/setup/setup).
+2. Place the `.dll` file that you can download [here]() in your plug-in directory.
+3. Restart/Start your server.
